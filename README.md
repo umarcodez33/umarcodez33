@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @umarcodez33
 - 👀 I’m interested in web developing
-- 🌱 I’m currently learning backedn
+- 🌱 I’m currently learning backend
 - 📫 How to reach me theumar.netlify.app
 
 <!---
